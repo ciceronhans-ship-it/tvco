@@ -1,0 +1,128 @@
+#EXTM3U
+# Playlist name: MannschaftWorldTV — Category Organized
+# Structured to resemble a live TV app layout: categories on the left, channels on the right.
+# Public streams only; verify regional availability and broadcaster terms before redistribution.
+# No private IPTV credentials, account URLs, reseller links, or paid-event streams.
+
+# ===== VIP | HAITI =====
+#EXTINF:-1 tvg-id="mannschaftworldtv" tvg-name="MannschaftWorldTV" group-title="VIP | HAITI",MannschaftWorldTV
+https://your-live-stream.example/live/stream.m3u8
+
+# ===== FR | NEWS =====
+#EXTINF:-1 tvg-id="france24.en" tvg-name="France 24 English" group-title="FR | NEWS",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="France 24 Français" group-title="FR | NEWS",France 24 Français
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="Euronews Français" group-title="FR | NEWS",Euronews Français
+https://rakuten-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="tv5monde.info" tvg-name="TV5MONDE Info" group-title="FR | NEWS",TV5MONDE Info
+https://ott.tv5monde.com/Content/hls/Live/channel(info)/index.m3u8
+#EXTINF:-1 tvg-id="lcp.fr" tvg-name="LCP" group-title="FR | NEWS",LCP
+https://lcp.france.tv/live/lcp/index.m3u8
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE Français" group-title="FR | NEWS",ARTE Français
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+# ===== UK | NEWS =====
+#EXTINF:-1 tvg-id="bbc.news" tvg-name="BBC News" group-title="UK | NEWS",BBC News
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/playlist.m3u8
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News UK" group-title="UK | NEWS",Sky News UK
+https://skynews2-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews.en" tvg-name="Euronews English" group-title="UK | NEWS",Euronews English
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="rte.news" tvg-name="RTÉ News" group-title="UK | NEWS",RTÉ News
+https://live.rte.ie/live/a/channel1/news.isml/.m3u8
+
+# ===== US | NEWS =====
+#EXTINF:-1 tvg-id="abcnews" tvg-name="ABC News" group-title="US | NEWS",ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 tvg-id="cbsnews" tvg-name="CBS News" group-title="US | NEWS",CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 tvg-id="nbcnewsnow" tvg-name="NBC News NOW" group-title="US | NEWS",NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 tvg-id="bloomberg.tv" tvg-name="Bloomberg Television" group-title="US | NEWS",Bloomberg Television
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="foxlivenow" tvg-name="FOX Live Now" group-title="US | NEWS",FOX Live Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cheddar" tvg-name="Cheddar" group-title="US | NEWS",Cheddar
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+#EXTINF:-1 tvg-id="weathernation" tvg-name="WeatherNation" group-title="US | NEWS",WeatherNation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+
+# ===== US | SPORTS =====
+#EXTINF:-1 tvg-id="cbssportshq" tvg-name="CBS Sports HQ" group-title="US | SPORTS",CBS Sports HQ
+https://cbsn-cbsnspn-us.cbsnstream.cbsnews.com/out/v1/936f17e41a344cafae7a7ed04bea8a57/index.m3u8
+#EXTINF:-1 tvg-id="stadium" tvg-name="Stadium" group-title="US | SPORTS",Stadium
+https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
+
+# ===== AF | NEWS =====
+#EXTINF:-1 tvg-id="africanews" tvg-name="Africanews" group-title="AF | NEWS",Africanews
+https://rakuten-africanews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="voa.africa" tvg-name="Voice of America TV Africa" group-title="AF | NEWS",Voice of America TV Africa
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+
+# ===== AS | NEWS =====
+#EXTINF:-1 tvg-id="aljazeera.en" tvg-name="Al Jazeera English" group-title="AS | NEWS",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="aljazeera.ar" tvg-name="Al Jazeera Arabic" group-title="AS | NEWS",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="trt.world" tvg-name="TRT World" group-title="AS | NEWS",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="cgtn.en" tvg-name="CGTN English" group-title="AS | NEWS",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="cgtn.ar" tvg-name="CGTN Arabic" group-title="AS | NEWS",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World" group-title="AS | NEWS",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/playlist.m3u8
+#EXTINF:-1 tvg-id="cna" tvg-name="Channel News Asia" group-title="AS | NEWS",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+# ===== AM | NEWS =====
+#EXTINF:-1 tvg-id="canal13.cl" tvg-name="Canal 13 Chile" group-title="AM | NEWS",Canal 13 Chile
+https://mdstrm.com/live-stream/609ad3308f3d5d0a9d5c64b0.m3u8
+#EXTINF:-1 tvg-id="tvn.cl" tvg-name="TVN Chile" group-title="AM | NEWS",TVN Chile
+https://mdstrm.com/live-stream/5aaabe8e2fa5d326c5d9e6a3.m3u8
+#EXTINF:-1 tvg-id="tvchile.cl" tvg-name="TV Chile" group-title="AM | NEWS",TV Chile
+https://mdstrm.com/live-stream/5e6de29574f2d10027d37a2b.m3u8
+#EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo" group-title="AM | NEWS",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/nbculive_1/index.m3u8
+
+# ===== US | ENTERTAINMENT =====
+#EXTINF:-1 tvg-id="retrotv" tvg-name="Retro TV" group-title="US | ENTERTAINMENT",Retro TV
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
+#EXTINF:-1 tvg-id="buzzr" tvg-name="BUZZR" group-title="US | ENTERTAINMENT",BUZZR
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+#EXTINF:-1 tvg-id="biztv" tvg-name="Biz TV" group-title="US | ENTERTAINMENT",Biz TV
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
+#EXTINF:-1 tvg-id="drybarcomedy" tvg-name="Drybar Comedy" group-title="US | ENTERTAINMENT",Drybar Comedy
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="heartland" tvg-name="Heartland" group-title="US | ENTERTAINMENT",Heartland
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
+
+# ===== US | KIDS =====
+#EXTINF:-1 tvg-id="pbskids" tvg-name="PBS Kids" group-title="US | KIDS",PBS Kids
+https://kids-live.cdn.pbskids.org/cms-500/live.m3u8
+#EXTINF:-1 tvg-id="filmrise.kids" tvg-name="FilmRise Kids" group-title="US | KIDS",FilmRise Kids
+https://dai2.xumo.com/xumocdn/p=roku/filmrisekids.m3u8
+#EXTINF:-1 tvg-id="peppapig" tvg-name="Peppa Pig" group-title="US | KIDS",Peppa Pig
+https://dai.google.com/linear/hls/event/Zv0y71j8QAeGgtEL-F8xzA/master.m3u8
+
+# ===== US | MUSIC =====
+#EXTINF:-1 tvg-id="vevo.pop" tvg-name="Vevo Pop" group-title="US | MUSIC",Vevo Pop
+https://dai.google.com/linear/hls/event/yfDoGoOnTTWQpJtkzvskhA/master.m3u8
+#EXTINF:-1 tvg-id="vevo.hiphop" tvg-name="Vevo Hip-Hop" group-title="US | MUSIC",Vevo Hip-Hop
+https://dai.google.com/linear/hls/event/3RU4WwI8Sf6eXPCXnG8y0Q/master.m3u8
+#EXTINF:-1 tvg-id="vevo.country" tvg-name="Vevo Country" group-title="US | MUSIC",Vevo Country
+https://dai.google.com/linear/hls/event/JFZ2IpZqR3q9cfWf5fpi9A/master.m3u8
+
+# ===== US | SCIENCE =====
+#EXTINF:-1 tvg-id="nasa.public" tvg-name="NASA TV Public" group-title="US | SCIENCE",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="nasa.media" tvg-name="NASA TV Media" group-title="US | SCIENCE",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+# ===== US | LIFESTYLE =====
+#EXTINF:-1 tvg-id="bloomberg.originals" tvg-name="Bloomberg Originals" group-title="US | LIFESTYLE",Bloomberg Originals
+https://bloomberg-bloomberg-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+# ===== END =====
+# This layout matches the category-first IPTV app pattern shown in the screenshots.
