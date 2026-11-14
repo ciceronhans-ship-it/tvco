@@ -4,6 +4,10 @@
 # Group titles use REGION | CATEGORY. Stream availability, geoblocking, and reuse rights vary; follow broadcaster terms.
 # Public streams only. No private IPTV credentials, reseller links, or paid-event streams.
 
+# ===== ACCOUNT INFORMATION =====
+#EXTINF:-1 tvg-id="mannschaftgroup" tvg-name="Mannschaftgroup" group-title="ACCOUNT INFORMATION",Mannschaftgroup | Premium IPTV Access | Support: (509) 494-49977 / 422-32828
+https://www.mannschaftgroup.com/
+
 # ===== FR | NEWS =====
 #EXTINF:-1 tvg-id="france24.en" tvg-name="France 24 EN" group-title="FR | NEWS",F24 EN
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
@@ -197,10 +201,6 @@ https://mdstrm.com/live-stream/609ad3308f3d5d0a9d5c64b0.m3u8
 https://mdstrm.com/live-stream/5aaabe8e2fa5d326c5d9e6a3.m3u8
 #EXTINF:-1 tvg-id="tvchile.cl" tvg-name="TV Chile" group-title="LATAM | NEWS",TV Chile
 https://mdstrm.com/live-stream/5e6de29574f2d10027d37a2b.m3u8
-
-# ===== ACCOUNT INFORMATION =====
-#EXTINF:-1 tvg-id="mannschaftgroup" tvg-name="Mannschaftgroup" group-title="ACCOUNT INFORMATION",Mannschaftgroup | Premium IPTV Access | Support: (509) 494-49977 / 422-32828
-https://www.mannschaftgroup.com/
 
 # ===== EXTRA | WORLD =====
 #EXTINF:-1 tvg-id="euronews.fr" tvg-name="Euronews Worldwide" group-title="EXTRA | WORLD",Euronews Worldwide
