@@ -1,0 +1,35 @@
+#EXTM3U
+# Playlist name: MannschaftWorldTV | Regional Additions
+# Supplemental channels from additional regions. Import alongside the main playlist.
+# Sources are publicly listed stream endpoints; availability and geo-restrictions vary.
+# Respect broadcaster terms. Geo-blocked streams are explicitly labeled and are not bypassed.
+
+# ===== OCEANIA | AUSTRALIA =====
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-name="ABC News Australia" group-title="NEWS | OCEANIA",ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+# ===== ASIA | JAPAN =====
+#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-name="Weathernews Japan" group-title="NEWS | ASIA",Weathernews Japan
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+
+# ===== AFRICA | SOUTH AFRICA =====
+#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-name="WildEarth" group-title="NATURE | AFRICA",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-name="SABC News (Geo-blocked)" group-title="NEWS | AFRICA",SABC News (Geo-blocked)
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+
+# ===== AMERICAS | BRAZIL =====
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil" group-title="PUBLIC TV | BRAZIL",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-name="Canal Gov" group-title="PUBLIC TV | BRAZIL",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canal Educação" group-title="PUBLIC TV | BRAZIL",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura" group-title="CULTURE | BRAZIL",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Câmara" group-title="PUBLIC TV | BRAZIL",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+# ===== AMERICAS | CANADA =====
+#EXTINF:-1 tvg-id="CBCNewsBC.ca@SD" tvg-name="CBC News BC (Geo-blocked)" group-title="NEWS | CANADA",CBC News BC (Geo-blocked)
+https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
