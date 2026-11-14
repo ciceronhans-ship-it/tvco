@@ -1,0 +1,53 @@
+#EXTM3U
+# Playlist name: MannschaftWorldTV — Haiti + France + News
+# Haiti-focused selection: French-language programming and international news. No direct Haiti stream was supplied; NAGO is listed as an official website, not a playable M3U URL.
+# Publicly reachable does not itself grant redistribution rights; observe regional availability and broadcaster terms.
+# No private IPTV credentials, account URLs, reseller links, or paid-event streams.
+
+# ===== HAITI: OFFICIAL ONLINE SERVICES (NOT DIRECT STREAMS) =====
+# NAGO Network: https://nago.tv/
+# Haiti News: https://www.haitinews.net/
+
+# ===== FRANCE / FRENCH-LANGUAGE NEWS =====
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="France 24 Français" group-title="France | Actualités",France 24 Français
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="Euronews Français" group-title="France | Actualités",Euronews Français
+https://rakuten-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="tv5monde.info" tvg-name="TV5MONDE Info" group-title="France | Actualités",TV5MONDE Info
+https://ott.tv5monde.com/Content/hls/Live/channel(info)/index.m3u8
+#EXTINF:-1 tvg-id="lcp.fr" tvg-name="LCP" group-title="France | Actualités",LCP
+https://lcp.france.tv/live/lcp/index.m3u8
+#EXTINF:-1 tvg-id="france24.en" tvg-name="France 24 English" group-title="France | Actualités",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE Français" group-title="France | Culture",ARTE Français
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+# ===== INTERNATIONAL NEWS =====
+#EXTINF:-1 tvg-id="aljazeera.en" tvg-name="Al Jazeera English" group-title="International | News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="aljazeera.ar" tvg-name="Al Jazeera Arabic" group-title="International | أخبار",الجزيرة العربية
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="dw.en" tvg-name="DW English" group-title="International | News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="bbc.news" tvg-name="BBC News" group-title="International | News",BBC News
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/playlist.m3u8
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News UK" group-title="International | News",Sky News UK
+https://skynews2-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="abcnews" tvg-name="ABC News" group-title="International | News",ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 tvg-id="cbsnews" tvg-name="CBS News" group-title="International | News",CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 tvg-id="nbcnewsnow" tvg-name="NBC News NOW" group-title="International | News",NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 tvg-id="bloomberg.tv" tvg-name="Bloomberg Television" group-title="International | News",Bloomberg Television
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="africanews" tvg-name="Africanews" group-title="International | News",Africanews
+https://rakuten-africanews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="voa.africa" tvg-name="Voice of America TV Africa" group-title="International | News",Voice of America TV Africa
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World" group-title="International | News",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/playlist.m3u8
+#EXTINF:-1 tvg-id="cna" tvg-name="Channel News Asia" group-title="International | News",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+# NOTE: French-language feeds and direct HLS availability can vary by location. This is a curated mini playlist, not a complete Haiti channel lineup.
