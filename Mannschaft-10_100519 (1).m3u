@@ -3,7 +3,6 @@
 # Free/public-stream starter playlist assembled from broadcaster/public-stream listings.
 # URLs can change, be geo-restricted, or stop working. Availability in Haiti is not guaranteed.
 # Please use streams under each broadcaster's terms. No paid-subscription bypass links are included.
-# Added stream URLs are unverified and may change or be region-limited.
 
 # ===== INTERNATIONAL NEWS =====
 #EXTINF:-1 group-title="Nouvèl",France 24 English
@@ -40,7 +39,6 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 # ===== SPORTS =====
 #EXTINF:-1 group-title="Espò",Stadium
 https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
-# CBS Sports HQ is sports news, not live premium game coverage.
 #EXTINF:-1 group-title="Espò",CBS Sports HQ
 https://cbsn-cbsnspn-us.cbsnstream.cbsnews.com/out/v1/936f17e41a344cafae7a7ed04bea8a57/index.m3u8
 
@@ -59,6 +57,8 @@ https://dai2.xumo.com/xumocdn/p=roku/stirrclassic.m3u8
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
 #EXTINF:-1 group-title="Seri ak klasik",Rev'n
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+#EXTINF:-1 group-title="Seri ak klasik",Buzzr
+https://buzzr-samsunguk.amagi.tv/playlist.m3u8
 
 # ===== KIDS =====
 #EXTINF:-1 group-title="Timoun",PBS Kids
@@ -85,6 +85,8 @@ https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kay ak vi",This Old House
 https://dai.google.com/linear/hls/event/Y2WezTwNQ7WVd14j5uh7tQ/master.m3u8
+#EXTINF:-1 group-title="Kay ak vi",Bloomberg Originals
+https://bloomberg-bloomberg-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 # ===== SCIENCE / DOCUMENTARIES =====
 #EXTINF:-1 group-title="Syans",NASA TV Public
