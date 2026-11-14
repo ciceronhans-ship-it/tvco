@@ -1,10 +1,13 @@
 #EXTM3U
-# Playlist name: Mannschaft (Expanded Public List)
-# Public broadcaster/publicly documented streams only.
-# Availability, geoblocking, and URLs may change. Use only where permitted.
-# No paid TV, bypasses, or unauthorized PPV streams included.
+# Playlist name: MannschaftWorldTV
+# Brand logo: https://raw.githubusercontent.com/ciceronhans-ship-it/tvco/main/assets/mannschaftworldtv-logo.svg
+# Contact: (509) 494-49977
 
-# ===== ALL CHANNELS (unique direct stream entries) =====
+# ===== BRANDING =====
+#EXTINF:-1 tvg-id="mannschaftworldtv" tvg-name="MannschaftWorldTV" tvg-logo="https://raw.githubusercontent.com/ciceronhans-ship-it/tvco/main/assets/mannschaftworldtv-logo.svg" group-title="Haiti",MannschaftWorldTV
+https://your-live-stream.example/live/stream.m3u8
+
+# ===== ALL CHANNELS =====
 #EXTINF:-1 group-title="All Channels",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 group-title="All Channels",France 24 Français
@@ -219,7 +222,7 @@ https://mdstrm.com/live-stream/5aaabe8e2fa5d326c5d9e6a3.m3u8
 https://mdstrm.com/live-stream/5e6de29574f2d10027d37a2b.m3u8
 
 # ===== HAITI / CARIBBEAN =====
-# Website-only links are listed below in comments; they are not direct playable channel streams.
+# Website-only links are kept as comments and are not direct playable streams.
 
 # ===== MOVIES =====
 #EXTINF:-1 group-title="Movies",Docurama
@@ -265,7 +268,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 group-title="Lifestyle",Bloomberg Originals
 https://bloomberg-bloomberg-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-# ===== OFFICIAL LINKS (WEB/APPS ONLY; NOT DIRECT CHANNEL STREAMS) =====
+# ===== OFFICIAL LINKS (WEB/APPS ONLY, NOT DIRECT STREAMS) =====
 # Haiti: NAGO Network (NAGO News, NAGO Sport, NAGO Music, NAGO Gospel and radio)
 # https://nago.tv/
 # Haiti News website
