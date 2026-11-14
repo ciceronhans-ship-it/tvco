@@ -1,0 +1,60 @@
+#EXTM3U
+# Playlist name: MannschaftWorldTV — Haiti + News
+# No verified direct Haiti TV stream URL was provided, so this playlist contains international news streams only.
+# Haiti official service website (not an M3U stream): https://nago.tv/
+# Publicly reachable does not necessarily mean licensed for redistribution; follow broadcaster terms and regional restrictions.
+# No private IPTV credentials, account URLs, reseller links, or paid-event streams.
+
+# ===== INTERNATIONAL NEWS =====
+#EXTINF:-1 group-title="France | News",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="France | News",France 24 Français
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="France | News",Euronews Français
+https://rakuten-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Germany | News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="United Kingdom | News",BBC News
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom | News",Sky News UK
+https://skynews2-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="United Kingdom | News",Euronews English
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Ireland | News",RTÉ News
+https://live.rte.ie/live/a/channel1/news.isml/.m3u8
+#EXTINF:-1 group-title="Italy | News",Rai News 24
+https://raiflushlive.akamaized.net/rai/rai24/playlist.m3u8
+#EXTINF:-1 group-title="Qatar | News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="Qatar | News",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="Turkey | News",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="China | News",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="China | News",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 group-title="Japan | News",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/playlist.m3u8
+#EXTINF:-1 group-title="Singapore | News",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="United States | News",ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 group-title="United States | News",CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 group-title="United States | News",NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 group-title="United States | News",Bloomberg Television
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title="United States | News",FOX Live Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="United States | News",Cheddar
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+#EXTINF:-1 group-title="United States | News",WeatherNation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+#EXTINF:-1 group-title="Pan-Africa | News",Africanews
+https://rakuten-africanews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Pan-Africa | News",Voice of America TV Africa
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+
+# NOTE: Add a Haiti channel only when you have its official, authorized direct stream URL.
