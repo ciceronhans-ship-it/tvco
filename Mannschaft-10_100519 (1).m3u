@@ -96,6 +96,41 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 group-title="Dokimantè",ARTE Français
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 
+# ===== COUNTRY GROUPS =====
+#EXTINF:-1 group-title="Country: France",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Country: France",France 24 Français
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Country: France",ARTE Français
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 group-title="Country: USA",ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 group-title="Country: USA",CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 group-title="Country: USA",NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 group-title="Country: USA",WeatherNation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+#EXTINF:-1 group-title="Country: USA",CBS Sports HQ
+https://cbsn-cbsnspn-us.cbsnstream.cbsnews.com/out/v1/936f17e41a344cafae7a7ed04bea8a57/index.m3u8
+
+#EXTINF:-1 group-title="Country: Europe",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="Country: Europe",ARTE Français
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 group-title="Country: Middle East",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="Country: Asia",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="Country: Asia",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/playlist.m3u8
+
+#EXTINF:-1 group-title="Country: Haiti",NAGO Network
+https://nago.tv/
+
 # ===== OFFICIAL SERVICES — WEBSITE / APP LINKS, NOT DIRECT M3U CHANNELS =====
 # Haiti: NAGO Network (NAGO News, NAGO Sport, NAGO Music, NAGO Gospel and radio)
 # https://nago.tv/
