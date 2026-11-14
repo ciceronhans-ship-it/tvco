@@ -107,6 +107,33 @@ https://newsmax-rtmp-livestreaming-1.nyc3.cdn.digitaloceanspaces.com/global/news
 #EXTINF:-1 tvg-id="euronews.world" tvg-name="Euronews Worldwide" group-title="NEWS | WORLD",Euronews Worldwide
 https://rakuten-euronews-1-eu.rakuten.wurl.tv/manifest/playlist.m3u8
 
+# ===== REGIONAL ADDITIONS =====
+# Oceania / Australia
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-name="ABC News Australia" group-title="NEWS | OCEANIA",ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+# Asia / Japan
+#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-name="Weathernews Japan" group-title="NEWS | ASIA",Weathernews Japan
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+
+# Africa / South Africa
+#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-name="WildEarth" group-title="NATURE | AFRICA",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-name="SABC News" group-title="NEWS | AFRICA",SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+
+# Americas / Brazil
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil" group-title="PUBLIC TV | BRAZIL",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalEdu.br@SD" tvg-name="Canal Educação" group-title="PUBLIC TV | BRAZIL",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-name="Canal Gov" group-title="PUBLIC TV | BRAZIL",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+# Americas / Canada
+#EXTINF:-1 tvg-id="CBCNewsBC.ca@SD" tvg-name="CBC News BC" group-title="NEWS | CANADA",CBC News BC
+https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
+
 # ===== CULTURE =====
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE FR" group-title="CULTURE",ARTE FR
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
