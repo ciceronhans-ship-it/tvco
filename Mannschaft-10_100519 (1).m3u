@@ -1,5 +1,5 @@
 #EXTM3U
-# Playlist name: Mannschaft
+# Playlist name: Mannschaft (Public Only)
 # Free/public-stream starter playlist assembled from broadcaster/public-stream listings.
 # URLs can change, be geo-restricted, or stop working. Availability in Haiti is not guaranteed.
 # Please use streams under each broadcaster's terms. No paid-subscription bypass links are included.
@@ -33,6 +33,8 @@ https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 group-title="Nouvèl",WeatherNation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+#EXTINF:-1 group-title="Nouvèl",Voice of America TV Africa
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 
 # ===== SPORTS =====
 #EXTINF:-1 group-title="Espò",Stadium
@@ -91,109 +93,3 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 # Some feeds may fail, require a supported player, or be unavailable in Haiti.
 # Official service links in comments are websites/apps and will not necessarily play inside IBO.
 # No unauthorized paid-TV or premium sports/movie bypass links are included.
-#EXTINF:-1 group-title="Nouvèl",DW English
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ FIGHT-UFC ✦●✦" tvg-logo="https://lo1.in/ppvs/ufc.png" group-title="VIP | UFC PPV",✦●✦ FIGHT-UFC ✦●✦
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1033
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC 24/7" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC 24/7
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/19197
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC PPV 00 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC PPV 00 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/28948
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC PPV 01 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC PPV 01 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/5425
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC PPV 02 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC PPV 02 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/5424
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC PPV 03 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC PPV 03 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/5423
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC PPV 04 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC PPV 04 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/5422
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC PPV 05 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC PPV 05 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/4324
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC 00 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC 00 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/28941
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC 01 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC 01 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/28942
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC 02 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC 02 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/28943
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC 03 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC 03 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/28944
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC 04 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC 04 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/28945
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC 06 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC 06 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/28947
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ UFC BG INT ✦●✦" tvg-logo="https://lo1.in/ppvs/ufc.png" group-title="VIP | UFC PPV",✦●✦ UFC BG INT ✦●✦
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395999
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 01 [Fight Pass 24/7 (2019-09-25 19:00:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 01 [Fight Pass 24/7 (2019-09-25 19:00:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395698
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 02 [UFC BJJ 12: MOURA VS FORNARINO (2026-10-08 20:00:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 02 [UFC BJJ 12: MOURA VS FORNARINO (2026-10-08 20:00:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395699
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 03 [(ESPAÑOL) UFC BJJ 12: MOURA VS FORNARINO (2026-10-08 20:00:05)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 03 [(ESPAÑOL) UFC BJJ 12: MOURA VS FORNARINO (2026-10-08 20:00:05)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395700
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 04 [ZFN ORIGIN 06 (2026-10-09 03:00:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 04 [ZFN ORIGIN 06 (2026-10-09 03:00:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395701
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 05 [UFC FIGHT NIGHT PREVIEW SHOW: ALLEN VS DUNCAN (2026-10-09 18:00:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 05 [UFC FIGHT NIGHT PREVIEW SHOW: ALLEN VS DUNCAN (2026-10-09 18:00:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395702
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 06 [UFC VEGAS 122: POST_FIGHT PRESS CONFERENCE (2026-10-10 23:15:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 06 [UFC VEGAS 122: POST_FIGHT PRESS CONFERENCE (2026-10-10 23:15:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395703
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 07 [DWCS S10 | W10: POST_FIGHT PRESS CONFERENCE (2026-10-13 21:30:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 07 [DWCS S10 | W10: POST_FIGHT PRESS CONFERENCE (2026-10-13 21:30:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395704
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 08 [BISON KOMBAT 10 (2026-10-16 18:00:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 08 [BISON KOMBAT 10 (2026-10-16 18:00:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395705
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 09 [SAMOURAI MMA 22 (2026-10-16 19:00:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 09 [SAMOURAI MMA 22 (2026-10-16 19:00:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395706
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 10 [(FRANÇAIS) SAMOURAI MMA 22 (2026-10-16 19:00:05)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 10 [(FRANÇAIS) SAMOURAI MMA 22 (2026-10-16 19:00:05)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395707
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 11 [FURY FC 127 (2026-10-16 21:00:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 11 [FURY FC 127 (2026-10-16 21:00:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395708
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 12 [BUDO SENTO CHAMPIONSHIP 37 (2026-10-16 21:00:05)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 12 [BUDO SENTO CHAMPIONSHIP 37 (2026-10-16 21:00:05)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395709
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 13 [(ESPAÑOL) BUDO SENTO CHAMPIONSHIP 37 (2026-10-16 21:00:10)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 13 [(ESPAÑOL) BUDO SENTO CHAMPIONSHIP 37 (2026-10-16 21:00:10)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395710
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 14 [CAGE WARRIORS 211 PRELIMS (2026-10-17 11:30:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 14 [CAGE WARRIORS 211 PRELIMS (2026-10-17 11:30:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395711
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 15 [CAGE WARRIORS 211 (2026-10-17 14:30:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 15 [CAGE WARRIORS 211 (2026-10-17 14:30:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395712
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 16 [UFC EDMONTON: POST_FIGHT PRESS CONFERENCE (2026-10-17 23:15:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 16 [UFC EDMONTON: POST_FIGHT PRESS CONFERENCE (2026-10-17 23:15:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395713
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 17 [UAE WARRIORS 74 (2026-10-22 13:00:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 17 [UAE WARRIORS 74 (2026-10-22 13:00:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395714
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 18 [COMBAT FC 14 (2026-10-22 21:00:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 18 [COMBAT FC 14 (2026-10-22 21:00:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395715
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 19 [UFC 333: FIGHT PASS PRELIMS (2026-10-24 10:00:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 19 [UFC 333: FIGHT PASS PRELIMS (2026-10-24 10:00:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395716
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 20 [UFC 333: FIGHT PASS PRELIMS (2026-10-24 10:00:05)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 20 [UFC 333: FIGHT PASS PRELIMS (2026-10-24 10:00:05)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395717
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 21 [(ESPAÑOL) UFC 333: FIGHT PASS PRELIMINARES (2026-10-24 10:00:10)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 21 [(ESPAÑOL) UFC 333: FIGHT PASS PRELIMINARES (2026-10-24 10:00:10)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395718
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 22 [UFC 333: POST_FIGHT PRESS CONFERENCE (2026-10-24 17:15:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 22 [UFC 333: POST_FIGHT PRESS CONFERENCE (2026-10-24 17:15:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395719
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 23 [TUFF_N_UFF 158 (2026-10-24 22:30:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 23 [TUFF_N_UFF 158 (2026-10-24 22:30:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395720
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 24 [APFC: IFL 4 (2026-10-25 12:00:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 24 [APFC: IFL 4 (2026-10-25 12:00:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395721
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 25 [INKA MMA 62 (2026-10-28 23:00:00)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 25 [INKA MMA 62 (2026-10-28 23:00:00)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395722
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 26 [(ESPAÑOL) INKA MMA 62 (2026-10-28 23:00:05)]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 26 [(ESPAÑOL) INKA MMA 62 (2026-10-28 23:00:05)]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395723
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 27 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 27 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395724
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 28 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 28 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395725
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 29 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 29 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395726
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 30 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 30 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395727
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 31 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 31 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395728
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 32 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 32 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395729
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 33 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 33 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395730
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 34 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 34 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395731
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 35 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 35 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395732
-#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC INT [BG] 36 [EVENT ONLY]" tvg-logo="https://lo1.in/stplay1/ufcfeed.png" group-title="VIP | UFC PPV",PPV| UFC INT [BG] 36 [EVENT ONLY]
-http://igauexdw.egg-m0.xyz:80/ORBITRYER/U3AVX4VE/1395733
-
-
-
