@@ -1,0 +1,97 @@
+#EXTM3U
+# Playlist name: Mannschaft
+# Free/public-stream starter playlist assembled from broadcaster/public-stream listings.
+# URLs can change, be geo-restricted, or stop working. Availability in Haiti is not guaranteed.
+# Please use streams under each broadcaster's terms. No paid-subscription bypass links are included.
+
+# ===== INTERNATIONAL NEWS =====
+#EXTINF:-1 group-title="Nouvèl",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Nouvèl",France 24 Français
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="Nouvèl",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="Nouvèl",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="Nouvèl",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="Nouvèl",ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 group-title="Nouvèl",CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 group-title="Nouvèl",NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 group-title="Nouvèl",Bloomberg Television
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title="Nouvèl",Reuters TV
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Nouvèl",FOX Live Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Nouvèl",Cheddar
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+#EXTINF:-1 group-title="Nouvèl",Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 group-title="Nouvèl",WeatherNation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+
+# ===== SPORTS =====
+#EXTINF:-1 group-title="Espò",Stadium
+https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
+
+# ===== USA / GENERAL ENTERTAINMENT =====
+#EXTINF:-1 group-title="Divètisman",Retro TV
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
+#EXTINF:-1 group-title="Divètisman",BUZZR
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+#EXTINF:-1 group-title="Divètisman",Biz TV
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
+#EXTINF:-1 group-title="Divètisman",Heartland
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
+#EXTINF:-1 group-title="Divètisman",Rev'n
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+#EXTINF:-1 group-title="Komedi",Drybar Comedy
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Fim",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
+# ===== SCIENCE / DOCUMENTARIES =====
+#EXTINF:-1 group-title="Syans",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Syans",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="Dokimantè",ARTE Français
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+# ===== OFFICIAL SERVICES — WEBSITE / APP LINKS, NOT DIRECT M3U CHANNELS =====
+# Haiti: NAGO Network (NAGO News, NAGO Sport, NAGO Music, NAGO Gospel and radio)
+# https://nago.tv/
+# Football: FIFA+ / DAZN — free/paid content and rights vary by country
+# https://www.plus.fifa.com/
+# https://www.dazn.com/
+# Football: UEFA.tv — selected matches, highlights and documentaries; availability varies
+# https://www.uefa.tv/
+# French films, series and documentaries: TV5MONDEplus
+# https://www.tv5mondeplus.com/
+# French public-service programmes and selected sports/events: France.tv
+# https://www.france.tv/
+# ARTE programmes, films and documentaries
+# https://www.arte.tv/
+# Free ad-supported films and series; regional catalogue varies: Tubi, Pluto TV, Plex
+# https://tubitv.com/
+# https://pluto.tv/
+# https://www.plex.tv/watch-free/
+# Science and space documentaries: NASA+
+# https://plus.nasa.gov/
+# International news websites: NHK WORLD-JAPAN and BBC News
+# https://www3.nhk.or.jp/nhkworld/
+# https://www.bbc.com/news
+
+# IMPORTANT:
+# The direct HLS entries above are from public stream listings; I have not live-tested every URL.
+# Some feeds may fail, require a supported player, or be unavailable in Haiti.
+# Official service links in comments are websites/apps and will not necessarily play inside IBO.
+# No unauthorized paid-TV or premium sports/movie bypass links are included.
+#EXTINF:-1 group-title="Nouvèl",DW English
+https://www.epgeditor.com/6245/4hb.m3u
+
+
