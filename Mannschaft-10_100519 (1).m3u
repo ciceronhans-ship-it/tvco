@@ -6,6 +6,10 @@
 # No private IPTV account links, no paid PPV, and no unauthorized streams.
 # Availability, geoblocking, and stream URLs may change.
 
+# ===== BRANDING =====
+#EXTINF:-1 tvg-id="mannschaftworldtv" tvg-name="MannschaftWorldTV" tvg-logo="https://raw.githubusercontent.com/ciceronhans-ship-it/tvco/main/assets/mannschaftworldtv-logo.svg" group-title="Haiti",MannschaftWorldTV
+https://your-live-stream.example/live/stream.m3u8
+
 # ===== INTERNATIONAL NEWS =====
 #EXTINF:-1 group-title="News",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
@@ -198,6 +202,122 @@ https://mdstrm.com/live-stream/609ad3308f3d5d0a9d5c64b0.m3u8
 #EXTINF:-1 group-title="Latin America",TVN Chile
 https://mdstrm.com/live-stream/5aaabe8e2fa5d326c5d9e6a3.m3u8
 #EXTINF:-1 group-title="Latin America",TV Chile
+https://mdstrm.com/live-stream/5e6de29574f2d10027d37a2b.m3u8
+
+# ===== ALL CHANNELS =====
+#EXTINF:-1 group-title="All Channels",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="All Channels",France 24 Français
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="All Channels",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="All Channels",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="All Channels",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="All Channels",CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="All Channels",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 group-title="All Channels",ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 group-title="All Channels",CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 group-title="All Channels",NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 group-title="All Channels",Bloomberg Television
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title="All Channels",Reuters TV
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",FOX Live Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",Cheddar
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 group-title="All Channels",WeatherNation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+#EXTINF:-1 group-title="All Channels",Voice of America TV Africa
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",Euronews English
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",Euronews Français
+https://rakuten-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",BBC News
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",Sky News UK
+https://skynews2-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",RTÉ News
+https://live.rte.ie/live/a/channel1/news.isml/.m3u8
+#EXTINF:-1 group-title="All Channels",Rai News 24
+https://raiflushlive.akamaized.net/rai/rai24/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",Africanews
+https://rakuten-africanews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="All Channels",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="All Channels",Stadium
+https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
+#EXTINF:-1 group-title="All Channels",CBS Sports HQ
+https://cbsn-cbsnspn-us.cbsnstream.cbsnews.com/out/v1/936f17e41a344cafae7a7ed04bea8a57/index.m3u8
+#EXTINF:-1 group-title="All Channels",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 group-title="All Channels",FilmRise Movies
+https://dai2.xumo.com/xumocdn/p=roku/filmrisemovies.m3u8
+#EXTINF:-1 group-title="All Channels",This Old House
+https://dai.google.com/linear/hls/event/Y2WezTwNQ7WVd14j5uh7tQ/master.m3u8
+#EXTINF:-1 group-title="All Channels",Retro TV
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
+#EXTINF:-1 group-title="All Channels",Stirr Classic TV
+https://dai2.xumo.com/xumocdn/p=roku/stirrclassic.m3u8
+#EXTINF:-1 group-title="All Channels",Heartland
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
+#EXTINF:-1 group-title="All Channels",Rev'n
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+#EXTINF:-1 group-title="All Channels",Buzzr
+https://buzzr-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",PBS Kids
+https://kids-live.cdn.pbskids.org/cms-500/live.m3u8
+#EXTINF:-1 group-title="All Channels",FilmRise Kids
+https://dai2.xumo.com/xumocdn/p=roku/filmrisekids.m3u8
+#EXTINF:-1 group-title="All Channels",Peppa Pig
+https://dai.google.com/linear/hls/event/Zv0y71j8QAeGgtEL-F8xzA/master.m3u8
+#EXTINF:-1 group-title="All Channels",Vevo Pop
+https://dai.google.com/linear/hls/event/yfDoGoOnTTWQpJtkzvskhA/master.m3u8
+#EXTINF:-1 group-title="All Channels",Vevo Hip-Hop
+https://dai.google.com/linear/hls/event/3RU4WwI8Sf6eXPCXnG8y0Q/master.m3u8
+#EXTINF:-1 group-title="All Channels",Vevo Country
+https://dai.google.com/linear/hls/event/JFZ2IpZqR3q9cfWf5fpi9A/master.m3u8
+#EXTINF:-1 group-title="All Channels",BUZZR
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+#EXTINF:-1 group-title="All Channels",Biz TV
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",Drybar Comedy
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",Bloomberg Originals
+https://bloomberg-bloomberg-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="All Channels",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="All Channels",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="All Channels",ARTE Français
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 group-title="All Channels",TV5MONDE Info
+https://ott.tv5monde.com/Content/hls/Live/channel(info)/index.m3u8
+#EXTINF:-1 group-title="All Channels",LCP
+https://lcp.france.tv/live/lcp/index.m3u8
+#EXTINF:-1 group-title="All Channels",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/nbculive_1/index.m3u8
+#EXTINF:-1 group-title="All Channels",Canal 13 Chile
+https://mdstrm.com/live-stream/609ad3308f3d5d0a9d5c64b0.m3u8
+#EXTINF:-1 group-title="All Channels",TVN Chile
+https://mdstrm.com/live-stream/5aaabe8e2fa5d326c5d9e6a3.m3u8
+#EXTINF:-1 group-title="All Channels",TV Chile
 https://mdstrm.com/live-stream/5e6de29574f2d10027d37a2b.m3u8
 
 # ===== OFFICIAL LINKS ONLY (NOT DIRECT STREAMS) =====
