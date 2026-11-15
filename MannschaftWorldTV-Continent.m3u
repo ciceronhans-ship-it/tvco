@@ -1,162 +1,167 @@
 #EXTM3U
-# Playlist name: MannschaftWorldTV — Par continent
-# Groupes organisés par continent, pays et langue.
-# Les flux peuvent être soumis à géoblocage, disponibilité variable ou conditions des diffuseurs.
+# Playlist name: MannschaftWorldTV — Continent et catégories
+# Groupes au format CONTINENT-CATÉGORIE : EU, AM (Amériques), AS (Asie), AF (Afrique), OC (Océanie).
+# Catégories dérivées des chaînes déjà présentes dans les playlists du dépôt.
+# Aucun flux Santé vérifié n'étant listé, aucune chaîne n'est ajoutée à cette catégorie.
+# Disponibilité, géoblocage et conditions des diffuseurs peuvent varier.
 
 # ===== EUROPE =====
-#EXTINF:-1 tvg-id="france24.fr" tvg-name="France 24 Français" group-title="Europe | France | Français",France 24 Français
+#EXTINF:-1 tvg-id="beinsports.fr" tvg-name="beIN SPORTS" group-title="EU-Sport",beIN SPORTS
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="France 24 Français" group-title="EU-Nouvelles",France 24 Français
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="euronews.fr" tvg-name="Euronews Français" group-title="Europe | France | Français",Euronews Français
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="Euronews Français" group-title="EU-Nouvelles",Euronews Français
 https://rakuten-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="tv5monde.info" tvg-name="TV5MONDE Info" group-title="Europe | France | Français",TV5MONDE Info
+#EXTINF:-1 tvg-id="tv5monde.info" tvg-name="TV5MONDE Info" group-title="EU-Nouvelles",TV5MONDE Info
 https://ott.tv5monde.com/Content/hls/Live/channel(info)/index.m3u8
-#EXTINF:-1 tvg-id="lcp.fr" tvg-name="LCP" group-title="Europe | France | Français",LCP
+#EXTINF:-1 tvg-id="lcp.fr" tvg-name="LCP" group-title="EU-Nouvelles",LCP
 https://lcp.france.tv/live/lcp/index.m3u8
-#EXTINF:-1 tvg-id="bfm.fr" tvg-name="BFM TV" group-title="Europe | France | Français",BFM TV
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="BFM TV" group-title="EU-Nouvelles",BFM TV
 https://bfmbusinessbfmbusiness-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE Français" group-title="Europe | France | Français",ARTE Français
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="culturebox.fr" tvg-name="Culturebox" group-title="Europe | France | Français",Culturebox
-https://stream.sen-gt.com/culturebox/live/playlist.m3u8
-#EXTINF:-1 tvg-id="france24.en" tvg-name="France 24 English" group-title="Europe | France | Anglais",France 24 English
+#EXTINF:-1 tvg-id="france24.en" tvg-name="France 24 English" group-title="EU-Nouvelles",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="bbc.news" tvg-name="BBC News" group-title="Europe | Royaume-Uni | Anglais",BBC News
+#EXTINF:-1 tvg-id="bbc.news" tvg-name="BBC News" group-title="EU-Nouvelles",BBC News
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/playlist.m3u8
-#EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News UK" group-title="Europe | Royaume-Uni | Anglais",Sky News UK
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News UK" group-title="EU-Nouvelles",Sky News UK
 https://skynews2-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-id="euronews.en" tvg-name="Euronews English" group-title="Europe | Royaume-Uni / Europe | Anglais",Euronews English
+#EXTINF:-1 tvg-id="euronews.en" tvg-name="Euronews English" group-title="EU-Nouvelles",Euronews English
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="rte.news" tvg-name="RTÉ News" group-title="Europe | Irlande | Anglais",RTÉ News
+#EXTINF:-1 tvg-id="rte.news" tvg-name="RTÉ News" group-title="EU-Nouvelles",RTÉ News
 https://live.rte.ie/live/a/channel1/news.isml/.m3u8
-#EXTINF:-1 tvg-id="dw.en" tvg-name="DW English" group-title="Europe | Allemagne | Anglais",DW English
+#EXTINF:-1 tvg-id="dw.en" tvg-name="DW English" group-title="EU-Nouvelles",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="n24.de" tvg-name="N24" group-title="Europe | Allemagne | Allemand",N24
+#EXTINF:-1 tvg-id="n24.de" tvg-name="N24" group-title="EU-Nouvelles",N24
 https://n24-live.streams.ott.inkl/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="rai.news24" tvg-name="Rai News 24" group-title="Europe | Italie | Italien",Rai News 24
+#EXTINF:-1 tvg-id="rai.news24" tvg-name="Rai News 24" group-title="EU-Nouvelles",Rai News 24
 https://raiflushlive.akamaized.net/rai/rai24/playlist.m3u8
-#EXTINF:-1 tvg-id="24h.es" tvg-name="24 Horas" group-title="Europe | Espagne | Espagnol",24 Horas
+#EXTINF:-1 tvg-id="24h.es" tvg-name="24 Horas" group-title="EU-Nouvelles",24 Horas
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
-#EXTINF:-1 tvg-id="tve1.es" tvg-name="TVE 1" group-title="Europe | Espagne | Espagnol",TVE 1
+#EXTINF:-1 tvg-id="tve1.es" tvg-name="TVE 1" group-title="EU-Nouvelles",TVE 1
 https://rtvelivestream.akamaized.net/rtvesec/tve1/tve1_main.m3u8
-#EXTINF:-1 tvg-id="tve24h.es" tvg-name="TVE 24H" group-title="Europe | Espagne | Espagnol",TVE 24H
+#EXTINF:-1 tvg-id="tve24h.es" tvg-name="TVE 24H" group-title="EU-Nouvelles",TVE 24H
 https://rtvelivestream.akamaized.net/rtvesec/tve24h/tve24h_main.m3u8
-#EXTINF:-1 tvg-id="cnn.es" tvg-name="CNN en Español" group-title="Europe | International | Espagnol",CNN en Español
-https://cnn-cnninternational-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="rt.ru" tvg-name="RT" group-title="Europe | Russie / International | Russe",RT
+#EXTINF:-1 tvg-id="rt.ru" tvg-name="RT" group-title="EU-Nouvelles",RT
 https://rt-glb.rttv.com/dvr/rt_news/playlist.m3u8
-#EXTINF:-1 tvg-id="rt-doc.ru" tvg-name="RT Documentary" group-title="Europe | Russie / International | Russe",RT Documentary
+#EXTINF:-1 tvg-id="rt-doc.ru" tvg-name="RT Documentary" group-title="EU-Documentaires",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE Français" group-title="EU-Culture",ARTE Français
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-id="culturebox.fr" tvg-name="Culturebox" group-title="EU-Culture",Culturebox
+https://stream.sen-gt.com/culturebox/live/playlist.m3u8
 
 # ===== AMÉRIQUES =====
-#EXTINF:-1 tvg-id="abcnews" tvg-name="ABC News" group-title="Americas | États-Unis | Anglais",ABC News
+#EXTINF:-1 tvg-id="abcnews" tvg-name="ABC News" group-title="AM-Nouvelles",ABC News
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
-#EXTINF:-1 tvg-id="cbsnews" tvg-name="CBS News" group-title="Americas | États-Unis | Anglais",CBS News
+#EXTINF:-1 tvg-id="cbsnews" tvg-name="CBS News" group-title="AM-Nouvelles",CBS News
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 tvg-id="nbcnewsnow" tvg-name="NBC News NOW" group-title="Americas | États-Unis | Anglais",NBC News NOW
+#EXTINF:-1 tvg-id="nbcnewsnow" tvg-name="NBC News NOW" group-title="AM-Nouvelles",NBC News NOW
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
-#EXTINF:-1 tvg-id="bloomberg.tv" tvg-name="Bloomberg Television" group-title="Americas | États-Unis | Anglais",Bloomberg Television
+#EXTINF:-1 tvg-id="bloomberg.tv" tvg-name="Bloomberg Television" group-title="AM-Nouvelles",Bloomberg Television
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="foxlivenow" tvg-name="FOX Live Now" group-title="Americas | États-Unis | Anglais",FOX Live Now
+#EXTINF:-1 tvg-id="foxlivenow" tvg-name="FOX Live Now" group-title="AM-Nouvelles",FOX Live Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="courttv" tvg-name="Court TV" group-title="Americas | États-Unis | Anglais",Court TV
+#EXTINF:-1 tvg-id="courttv" tvg-name="Court TV" group-title="AM-Nouvelles",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 tvg-id="cheddar" tvg-name="Cheddar" group-title="Americas | États-Unis | Anglais",Cheddar
+#EXTINF:-1 tvg-id="cheddar" tvg-name="Cheddar" group-title="AM-Nouvelles",Cheddar
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
-#EXTINF:-1 tvg-id="weathernation" tvg-name="WeatherNation" group-title="Americas | États-Unis | Anglais",WeatherNation
+#EXTINF:-1 tvg-id="weathernation" tvg-name="WeatherNation" group-title="AM-Nouvelles",WeatherNation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
-#EXTINF:-1 tvg-id="cbssportshq" tvg-name="CBS Sports HQ" group-title="Americas | États-Unis | Anglais",CBS Sports HQ
-https://cbsn-cbsnspn-us.cbsnstream.cbsnews.com/out/v1/936f17e41a344cafae7a7ed04bea8a57/index.m3u8
-#EXTINF:-1 tvg-id="stadium" tvg-name="Stadium" group-title="Americas | États-Unis | Anglais",Stadium
-https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
-#EXTINF:-1 tvg-id="retrotv" tvg-name="Retro TV" group-title="Americas | États-Unis | Anglais",Retro TV
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
-#EXTINF:-1 tvg-id="buzzr" tvg-name="BUZZR" group-title="Americas | États-Unis | Anglais",BUZZR
-http://23.237.104.106:8080/USA_BUZZR/index.m3u8
-#EXTINF:-1 tvg-id="biztv" tvg-name="Biz TV" group-title="Americas | États-Unis | Anglais",Biz TV
-https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
-#EXTINF:-1 tvg-id="drybarcomedy" tvg-name="Drybar Comedy" group-title="Americas | États-Unis | Anglais",Drybar Comedy
-https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="heartland" tvg-name="Heartland" group-title="Americas | États-Unis | Anglais",Heartland
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
-#EXTINF:-1 tvg-id="stirr.classic" tvg-name="Stirr Classic" group-title="Americas | États-Unis | Anglais",Stirr Classic
-https://dai2.xumo.com/xumocdn/p=roku/stirrclassic.m3u8
-#EXTINF:-1 tvg-id="pbskids" tvg-name="PBS Kids" group-title="Americas | États-Unis | Anglais",PBS Kids
-https://kids-live.cdn.pbskids.org/cms-500/live.m3u8
-#EXTINF:-1 tvg-id="filmrise.kids" tvg-name="FilmRise Kids" group-title="Americas | États-Unis | Anglais",FilmRise Kids
-https://dai2.xumo.com/xumocdn/p=roku/filmrisekids.m3u8
-#EXTINF:-1 tvg-id="docurama" tvg-name="Docurama" group-title="Americas | États-Unis | Anglais",Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 tvg-id="filmrise.movies" tvg-name="FilmRise Movies" group-title="Americas | États-Unis | Anglais",FilmRise Movies
-https://dai2.xumo.com/xumocdn/p=roku/filmrisemovies.m3u8
-#EXTINF:-1 tvg-id="nasa.public" tvg-name="NASA TV Public" group-title="Americas | États-Unis | Anglais",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="nasa.media" tvg-name="NASA TV Media" group-title="Americas | États-Unis | Anglais",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="bloomberg.originals" tvg-name="Bloomberg Originals" group-title="Americas | États-Unis | Anglais",Bloomberg Originals
-https://bloomberg-bloomberg-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="vevo.pop" tvg-name="Vevo Pop" group-title="Americas | États-Unis | Anglais",Vevo Pop
-https://dai.google.com/linear/hls/event/yfDoGoOnTTWQpJtkzvskhA/master.m3u8
-#EXTINF:-1 tvg-id="vevo.hiphop" tvg-name="Vevo Hip-Hop" group-title="Americas | États-Unis | Anglais",Vevo Hip-Hop
-https://dai.google.com/linear/hls/event/3RU4WwI8Sf6eXPCXnG8y0Q/master.m3u8
-#EXTINF:-1 tvg-id="vevo.country" tvg-name="Vevo Country" group-title="Americas | États-Unis | Anglais",Vevo Country
-https://dai.google.com/linear/hls/event/JFZ2IpZqR3q9cfWf5fpi9A/master.m3u8
-#EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo" group-title="Americas | États-Unis | Espagnol",Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/nbculive_1/index.m3u8
-#EXTINF:-1 tvg-id="canal13.cl" tvg-name="Canal 13 Chile" group-title="Americas | Chili | Espagnol",Canal 13 Chile
+#EXTINF:-1 tvg-id="canal13.cl" tvg-name="Canal 13 Chile" group-title="AM-Nouvelles",Canal 13 Chile
 https://mdstrm.com/live-stream/609ad3308f3d5d0a9d5c64b0.m3u8
-#EXTINF:-1 tvg-id="tvn.cl" tvg-name="TVN Chile" group-title="Americas | Chili | Espagnol",TVN Chile
+#EXTINF:-1 tvg-id="tvn.cl" tvg-name="TVN Chile" group-title="AM-Nouvelles",TVN Chile
 https://mdstrm.com/live-stream/5aaabe8e2fa5d326c5d9e6a3.m3u8
-#EXTINF:-1 tvg-id="tvchile.cl" tvg-name="TV Chile" group-title="Americas | Chili | Espagnol",TV Chile
+#EXTINF:-1 tvg-id="tvchile.cl" tvg-name="TV Chile" group-title="AM-Nouvelles",TV Chile
 https://mdstrm.com/live-stream/5e6de29574f2d10027d37a2b.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil" group-title="Americas | Brésil | Portugais",TV Brasil
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalEdu.br@SD" tvg-name="Canal Educação" group-title="Americas | Brésil | Portugais",Canal Educação
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-name="Canal Gov" group-title="Americas | Brésil | Portugais",Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura" group-title="Americas | Brésil | Portugais",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Câmara" group-title="Americas | Brésil | Portugais",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="CBCNewsBC.ca@SD" tvg-name="CBC News BC" group-title="Americas | Canada | Anglais",CBC News BC
+#EXTINF:-1 tvg-id="cnn.es" tvg-name="CNN en Español" group-title="AM-Nouvelles",CNN en Español
+https://cnn-cnninternational-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo" group-title="AM-Nouvelles",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/nbculive_1/index.m3u8
+#EXTINF:-1 tvg-id="CBCNewsBC.ca@SD" tvg-name="CBC News BC" group-title="AM-Nouvelles",CBC News BC
 https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
+#EXTINF:-1 tvg-id="cbssportshq" tvg-name="CBS Sports HQ" group-title="AM-Sport",CBS Sports HQ
+https://cbsn-cbsnspn-us.cbsnstream.cbsnews.com/out/v1/936f17e41a344cafae7a7ed04bea8a57/index.m3u8
+#EXTINF:-1 tvg-id="stadium" tvg-name="Stadium" group-title="AM-Sport",Stadium
+https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
+#EXTINF:-1 tvg-id="retrotv" tvg-name="Retro TV" group-title="AM-Divertissement",Retro TV
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
+#EXTINF:-1 tvg-id="buzzr" tvg-name="BUZZR" group-title="AM-Divertissement",BUZZR
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+#EXTINF:-1 tvg-id="biztv" tvg-name="Biz TV" group-title="AM-Divertissement",Biz TV
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
+#EXTINF:-1 tvg-id="drybarcomedy" tvg-name="Drybar Comedy" group-title="AM-Divertissement",Drybar Comedy
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="heartland" tvg-name="Heartland" group-title="AM-Divertissement",Heartland
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
+#EXTINF:-1 tvg-id="stirr.classic" tvg-name="Stirr Classic" group-title="AM-Divertissement",Stirr Classic
+https://dai2.xumo.com/xumocdn/p=roku/stirrclassic.m3u8
+#EXTINF:-1 tvg-id="docurama" tvg-name="Docurama" group-title="AM-Films",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 tvg-id="filmrise.movies" tvg-name="FilmRise Movies" group-title="AM-Films",FilmRise Movies
+https://dai2.xumo.com/xumocdn/p=roku/filmrisemovies.m3u8
+#EXTINF:-1 tvg-id="pbskids" tvg-name="PBS Kids" group-title="AM-Kids",PBS Kids
+https://kids-live.cdn.pbskids.org/cms-500/live.m3u8
+#EXTINF:-1 tvg-id="filmrise.kids" tvg-name="FilmRise Kids" group-title="AM-Kids",FilmRise Kids
+https://dai2.xumo.com/xumocdn/p=roku/filmrisekids.m3u8
+#EXTINF:-1 tvg-id="peppapig" tvg-name="Peppa Pig" group-title="AM-Kids",Peppa Pig
+https://dai.google.com/linear/hls/event/Zv0y71j8QAeGgtEL-F8xzA/master.m3u8
+#EXTINF:-1 tvg-id="vevo.pop" tvg-name="Vevo Pop" group-title="AM-Musique",Vevo Pop
+https://dai.google.com/linear/hls/event/yfDoGoOnTTWQpJtkzvskhA/master.m3u8
+#EXTINF:-1 tvg-id="vevo.hiphop" tvg-name="Vevo Hip-Hop" group-title="AM-Musique",Vevo Hip-Hop
+https://dai.google.com/linear/hls/event/3RU4WwI8Sf6eXPCXnG8y0Q/master.m3u8
+#EXTINF:-1 tvg-id="vevo.country" tvg-name="Vevo Country" group-title="AM-Musique",Vevo Country
+https://dai.google.com/linear/hls/event/JFZ2IpZqR3q9cfWf5fpi9A/master.m3u8
+#EXTINF:-1 tvg-id="nasa.public" tvg-name="NASA TV Public" group-title="AM-Sciences",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="nasa.media" tvg-name="NASA TV Media" group-title="AM-Sciences",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-id="bloomberg.originals" tvg-name="Bloomberg Originals" group-title="AM-Économie",Bloomberg Originals
+https://bloomberg-bloomberg-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil" group-title="AM-Nouvelles",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalEdu.br@SD" tvg-name="Canal Educação" group-title="AM-Éducation",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-name="Canal Gov" group-title="AM-Nouvelles",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura" group-title="AM-Culture",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Câmara" group-title="AM-Nouvelles",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-# ===== ASIE-PACIFIQUE =====
-#EXTINF:-1 tvg-id="aljazeera.en" tvg-name="Al Jazeera English" group-title="Asia-Pacific | Qatar | Anglais",Al Jazeera English
+# ===== ASIE =====
+#EXTINF:-1 tvg-id="aljazeera.en" tvg-name="Al Jazeera English" group-title="AS-Nouvelles",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="aljazeera.ar" tvg-name="Al Jazeera Arabic" group-title="Asia-Pacific | Qatar | Arabe",Al Jazeera Arabic
+#EXTINF:-1 tvg-id="aljazeera.ar" tvg-name="Al Jazeera Arabic" group-title="AS-Nouvelles",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="trt.world" tvg-name="TRT World" group-title="Asia-Pacific | Turquie | Anglais",TRT World
+#EXTINF:-1 tvg-id="trt.world" tvg-name="TRT World" group-title="AS-Nouvelles",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="cgtn.en" tvg-name="CGTN English" group-title="Asia-Pacific | Chine | Anglais",CGTN English
+#EXTINF:-1 tvg-id="cgtn.en" tvg-name="CGTN English" group-title="AS-Nouvelles",CGTN English
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="cgtn.ar" tvg-name="CGTN Arabic" group-title="Asia-Pacific | Chine | Arabe",CGTN Arabic
+#EXTINF:-1 tvg-id="cgtn.ar" tvg-name="CGTN Arabic" group-title="AS-Nouvelles",CGTN Arabic
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-#EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World" group-title="Asia-Pacific | Japon | Anglais",NHK World
+#EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World" group-title="AS-Nouvelles",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/playlist.m3u8
-#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-name="Weathernews Japan" group-title="Asia-Pacific | Japon | Japonais",Weathernews Japan
+#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-name="Weathernews Japan" group-title="AS-Nouvelles",Weathernews Japan
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
-#EXTINF:-1 tvg-id="cna" tvg-name="Channel News Asia" group-title="Asia-Pacific | Singapour | Anglais",Channel News Asia
+#EXTINF:-1 tvg-id="cna" tvg-name="Channel News Asia" group-title="AS-Nouvelles",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="bbc.arabic" tvg-name="BBC Arabic" group-title="Asia-Pacific | International | Arabe",BBC Arabic
+#EXTINF:-1 tvg-id="bbc.arabic" tvg-name="BBC Arabic" group-title="AS-Nouvelles",BBC Arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/playlist.m3u8
 
 # ===== AFRIQUE =====
-#EXTINF:-1 tvg-id="africanews" tvg-name="Africanews" group-title="Africa | Pan-Afrique | Français",Africanews
+#EXTINF:-1 tvg-id="africanews" tvg-name="Africanews" group-title="AF-Nouvelles",Africanews
 https://rakuten-africanews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="voa.africa" tvg-name="Voice of America TV Africa" group-title="Africa | Pan-Afrique | Anglais",Voice of America TV Africa
+#EXTINF:-1 tvg-id="voa.africa" tvg-name="Voice of America TV Africa" group-title="AF-Nouvelles",Voice of America TV Africa
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv.kenya" tvg-name="NTV Kenya" group-title="Africa | Kenya | Anglais",NTV Kenya
+#EXTINF:-1 tvg-id="ntv.kenya" tvg-name="NTV Kenya" group-title="AF-Nouvelles",NTV Kenya
 https://ythunder.online/ntvkenya.m3u8
-#EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-name="SABC News" group-title="Africa | Afrique du Sud | Anglais",SABC News
+#EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-name="SABC News" group-title="AF-Nouvelles",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-name="WildEarth" group-title="Africa | Afrique du Sud | Langue variable",WildEarth
+#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-name="WildEarth" group-title="AF-Nature",WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 
 # ===== OCÉANIE =====
-#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-name="ABC News Australia" group-title="Oceania | Australie | Anglais",ABC News Australia
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-name="ABC News Australia" group-title="OC-Nouvelles",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
-# ===== NOTE =====
-# Certaines chaînes sont placées selon la zone de diffusion indiquée dans les playlists du dépôt.
-# Les flux publics ne confèrent pas une autorisation de redistribution ; vérifiez les droits et les restrictions géographiques.
+# NOTE : aucune chaîne Santé n'est présente dans les flux vérifiés de cette playlist.
+# Les flux publics ne confèrent pas automatiquement une autorisation de redistribution ; respectez les conditions des diffuseurs et les restrictions géographiques.
